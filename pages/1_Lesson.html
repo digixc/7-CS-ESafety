@@ -60,6 +60,17 @@ for the JavaScript code in this tag.
 <body>
 <div id="content">
 <h1 class="title">eSafety</h1>
+<div id="underlay" onclick="underlayoff()">
+</div>
+<div id="overlay" onclick="overlayoff()">
+</div>
+<ul id=overlayMenu>
+<li><p onclick="overlayon('hsla(80, 90%, 40%, 0.5)')">Green Overlay</p>
+<li><p onclick="overlayon('hsla(300,100%,50%, 0.3)')">Pink Overlay</p>
+<li><p onclick="underlayon('hsla(80, 90%, 40%, 0.4)')">Green Background</p>
+<li><p onclick="underlayon('hsla(300,100%,50%, 0.2)')">Pink Background</p>
+</ul>
+
   <div class="github-fork-ribbon-wrapper left">
     <div class="github-fork-ribbon">
       <a href="https://github.com/MarcScott/7-CS-ESafety">Fork me on GitHub</a>
