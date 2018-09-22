@@ -14,6 +14,7 @@ function overlayon(bgcol) {
     var bgcol = bgcol;
     document.getElementById("overlay").style.display = "block";
     document.getElementById("overlay").style.background = bgcol;
+    underlayoff();
 }
 
 function overlayoff() {
@@ -23,6 +24,7 @@ function overlayoff() {
 function underlayon(bgcol) {
     document.getElementById("underlay").style.display = "block";
     document.getElementById("underlay").style.background = bgcol;
+    overlayoff();
 }
 
 function underlayoff() {
