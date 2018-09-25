@@ -273,7 +273,8 @@ width:500px;
 
 #overlayMenu {
   position: fixed;
-  right: 0;
+  right: -3em;
+  transition: 0.3s;
   top: 40%;
   width: 3em;
   margin: -2.5em 0 0 0;
@@ -288,6 +289,10 @@ width:500px;
   padding: 0.5em 0.5em 0.5em 1em;
   box-shadow: 0 1px 3px black;
   border-radius: 2em 0.5em 0.5em 2em;
+}
+
+#overlayMenu:hover{
+  right:0;
 }
 
 #overlay {
