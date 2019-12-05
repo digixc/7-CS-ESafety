@@ -7,9 +7,9 @@
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: eSafety
-#+AUTHOR: Paul Dougall
+#+AUTHOR: Xiaohui Ellis
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT HTML
 <div id="underlay" onclick="underlayoff()">
 </div>
 <div id="overlay" onclick="overlayoff()">
@@ -37,7 +37,7 @@
       <li><a href="assessment.html">Assessment</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -139,9 +139,9 @@
 :HTML_CONTAINER_CLASS: document
 :END:
 - List, in Word or another text editor, some of the things that she has on her profile and separate them into:
-  - Safe and responsible networking
-  - Potentional unsafe or risky behaviour.
-- Here's one to get you started 
+  - Safe and responsible choice
+  - Potentional unsafe or risky choice.
+- Here's one exampl of safe and resposible choice to get you started 
    - E.g. Use of a cartoon for a profile picture
 ** Badge It: Silver
 :PROPERTIES:
@@ -152,58 +152,55 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-- Examples of unsafe behaviour can include:
-- *Using mobile phones in classrooms*
+*** Examples of unsafe behaviour can include:
+*Using mobile phones in classrooms*
 - In many schools using mobile phones is against school rules, at least during lessons. 
 - However, at BGS, you may have had good experience of using your mobile phone in Systems & Control to help with instructions. 
 - The item is not bad /per se/ it is what you do with it. Use it wisely.
 
 
-- *Visiting unknown websites included in emails from people you don’t know*
+*Visiting unknown websites included in emails from people you don’t know*
 [[file:img/dodgylink.png]]
 - There are too many  unknown factors in this above email. Both the sender of the email and the link in the email are unknown. 
 - Viruses can be downloaded, without your knowledge, from websites. Using up-to-date anti virus software will help keep your computer as safe as possible but don't click on anything you are not sure about. 
-- If in doubt ask an adult or visit [[www.childnet.com/sorted]] for more information.
+- If in doubt ask an adult or visit [[https://www.childnet.com/young-people/secondary/need-help][childnet]] for more information.
 
-
-- *Forwarding on nasty texts about other pupils*
+*Forwarding on nasty texts about other pupils*
 - Why are you forwarding it? Is it to report what is going on? That's what a good citizen would do. 
 - Clearly passing it on to make the matter worse is not the correct thing. Think before you act. Once it is done... it is done. 
 - This is a form of bullying called cyberbullying. It is not 'banter' or harmless - *it is a crime*.
 
 
-- *Forwarding on chain emails*
+*Forwarding on chain emails*
 - What is a chain letter/email? A chain emails is a message sent to someone asking them to pass on a message to as many people as possible. 
 - They are often hoaxes or urban legends. Harmless fun or a nuisance? The best policy... break the chain and delete them upon receipt.
  
 
-- *Letting your mates know about a site that helps with history coursework*
+*Letting your mates know about a site that helps with history coursework*
 - A great use of technology and as we all know sharing is caring! However, is everything on the World Wide Web true? 
 - Check out this [[http://zapatopi.net/treeoctopus/][site]]. What do you think?  
 
 
-- *Uploading photos of your mates on to a social network*
+*Uploading photos of your mates on to a social network*
 - Photos are often a large part of young people’s online experiences and many of you are happy for your images to be posted online. You have heard that there are photos that have been posted about you that they are unhappy about. Do you know how to solve this? 
 - Many social networks make available reporting [[https://en-gb.facebook.com/help/1381617785483471?helpref%3Dsearch&sr%3D2&query%3Dposted%2520my%2520image%2520without%2520my%2520permission][facilities]] for abusive photos – make sure you know how to do it and do report if something is not right.
 
-
-- *Always accepting anyone who asks to be your buddy on instant messenger or a social network e.g. Instagram/Facebook*
+*Always accepting anyone who asks to be your buddy on instant messenger or a social network e.g. Instagram/Facebook*
 - It is incredibly important that you spend time reflecting on who you would accept into your online life. Not everyone is who they appear to be... 
-
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <b>Humorous approach</b>
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/-IOOn2wR8bU" frameborder="0" allowfullscreen></iframe>
 <br><br>
 <b>Scare tactics</b>
 <iframe width="600" height="400" src="https://www.youtube.com/embed/6jMhMVEjEQg" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
+#+END_EXPORT
 
-- *Ignoring messages from your anti virus software saying that updates are available or out of date*
+*Ignoring messages from your anti virus software saying that updates are available or out of date*
 - An important aspect of internet security is keeping up with updates to ensure the best protection for computers. 
 - Why? Check out this [[http://www.computerhowtoguide.com/2012/05/why-update-antivirus-software-frequently.html][site]].
 
-- *Having online discussions, with someone you don’t know about private things*
+*Having online discussions, with someone you don’t know about private things*
 - The internet can be an environment where users feel anonymous and they can become involved in conversations of a private matter with people they have never met. 
 - This can be a positive thing in terms of online counselling services such as [[https://www.childline.org.uk/get-support/1-2-1-counsellor-chat/][Childline]]. However, some people engage children and young people in private discussions through flattery, persuasion and manipulation. 
 - You need to be aware of this and make sure that your private discussions are done with trustworthy, qualified people. 
@@ -211,12 +208,8 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Write down the answers to the questions as you play.
-- [[https://www.esafety.gov.au/access/games_index.html][Open this link]] in a new tab and go to 'Pick your friends' - How can we spot a friend or a bully/[[https://www.wired.com/2015/07/catfish-2/][catfish]]?
-- From Crowd Surfing - what were the three rules before passing things on to someone else?
-- From DropBox - What makes something safe? What three courses of action do they suggest? Screenshot your time on the hard setting.
-- Flip and Fix; on the hard setting. What are the 8 'safe' responses?
-- Upload your document to BourneToLearn.com in the gold upload slot for Week 2.
+- Take [[https://learnenglishkids.britishcouncil.org/archived-word-games/word-quiz/online-safety][this quiz]] and screenshot your score and upload to BTL
+- Take[[https://www.saferinternet.org.uk/safer-internet-day/2018/digital-friendships-quiz][this quiz]] and screenshot your score and upload to BTL
 * Password Protection
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
