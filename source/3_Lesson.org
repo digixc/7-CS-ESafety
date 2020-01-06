@@ -6,9 +6,9 @@
 #+OPTIONS: f:nil author:nil num:nil creator:nil timestamp:nil toc:nil html-style:nil
 
 #+TITLE: ESafety
-#+AUTHOR: Paul Dougall
+#+AUTHOR: Paul Dougall, updated by Xiaohui Ellis
 
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 <div id="underlay" onclick="underlayoff()">
 </div>
 <div id="overlay" onclick="overlayoff()">
@@ -36,7 +36,7 @@
       <li><a href="assessment.html">Assessment</a></li>
     </ul>
   </div>
-#+END_HTML
+#+END_EXPORT
 * COMMENT Use as a template
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -120,7 +120,7 @@
 - Before we watch some videos please answer the following questions:
 - =Don't worry these are for you and are not submitted to anyone else.=
 
-#+begin_html
+#+begin_export html
  <form>
 1. Do you currently use the internet?:<br>
 <input type="radio" name="net" value="Yes" checked>Yes
@@ -273,8 +273,8 @@ Talk to an adult about what you have been doing? <br>
 <p>
 
 </form>
-#+end_html
-* Case Studies: How does it happen?
+#+end_export 
+* Case Studies: How does it happen and how do you know?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
@@ -293,75 +293,51 @@ Talk to an adult about what you have been doing? <br>
     - using their professional position or reputation
     - taking them on trips, outings or holidays.
 
-** Ask It: Clare's Story
+** Ask It: How do you know?
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 - We are now going to watch some videos and answer some questions. 
-- Some of these videos maybe a little upsetting. 
 - Remember what we are talking about is probably rare, no one knows the actual numbers as some are potentially unreported, but we need to know about it.
 
-#+BEGIN_HTML 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/Z5WEnqnq1Hk" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
+#+BEGIN_EXPORT html
+<video width="600" controls>
+<source src='./doc/How Do I Know if I am Being Groomed-Childline.mp4' type="video/mp4">
+</video>
+#+END_EXPORT
 
-- Why did Clare met with the man?
-- Why did Clare to talk to the man?
-- How did he really see her?
-- Why did she not tell someone in the first half?
-- Who did she tell?
 
-** Ask It: Matt's Story
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-#+BEGIN_HTML
-<iframe width="800" height="600" src="https://www.youtube.com/embed/9JpyO5XlfCo" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
+- What is online grooming?
+- What are some of the signs that might indicate that someone is being groomed?
+- Where online can grooming occur?
+- What can you do if you feel uncomfortable about a sitiuation?
+- What organisations can you make reports to?
 
-- Why did Matt meet with Amber?
-- Where did he met Amber? 
-- Could you suggest a more appropriate to place they could have met?
-- Who was Amber?
-- What do we call it when someone pretends to be someone else online?
-- Why do you think he felt he had to go?
-- What should / could Matt have done to prevent the problems which he encountered? 
-- Compare Clare's and Matt's stories - what are the similarities? What are the differences?
 
-** Ask It: Tom's Story
+** Ask It: Online grooming
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
 
-[[./img/tom.png]]
+#+BEGIN_EXPORT html
+<video width="600" controls>
+<source src='./doc/Online Grooming-Childline.mp4' type="video/mp4">
+</video>
+#+END_EXPORT
 
-Before watching the next film take each of the following statements and think; what is good about this? what could go wrong?
-
-- Tom is 12. He has internet access in his bedroom. He often goes online and talks to his school friends.
-
-- He also enjoys going onto sites where he can chat with people he doesn’t know in the real world.
-
-- He makes friends with a boy called Jack. He likes chatting to Jack online and they both support the same football team. He even lives nearby!
-
-- One day when they are chatting online, Jack asks Tom if he wants to go football training with him.
-
-
-#+BEGIN_HTML
-<iframe width="800" height="600" src="https://www.youtube.com/embed/dkwkkwOntmc" frameborder="0" allowfullscreen></iframe>
-#+END_HTML
-
-- How did Jack make Tom feel he was special?
+- How did Nathan make Bethany feel she was special?
 - What were his reasons for doing this?
 - What other ways might someone try to make another person feel special?
-- What were the things that Tom did which made him vulnerable?
-- What should he have said / done?
-- Why did Tom feel that he couldn't tell anyone about what was happening? 
+- What were the things that Bethany did which made her vulnerable?
+- What should she have said / done?
+- Why did Bethany feel that she couldn't tell anyone about what was happening?
 - What would you do to prevent yourself from getting into a similar situation?
+
 ** Badge It: Silver / Gold
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Upload your answers to the questions from the three videos.
+- Upload your answers to the questions from the two videos above.
 - The quality of your answers will determine the badge awarded.
 - To be awarded the platinum badge your answers need to be of a good standard in regards to *green pen matters*.
 
