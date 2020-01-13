@@ -307,12 +307,15 @@ Talk to an adult about what you have been doing? <br>
 #+END_EXPORT
 
 
-- What is online grooming?
-- What are some of the signs that might indicate that someone is being groomed?
-- Where online can grooming occur?
-- What can you do if you feel uncomfortable about a sitiuation?
-- What organisations can you make reports to?
 
+
+- How did Nathan make Bethany feel she was special?
+- What were his reasons for doing this?
+- What other ways might someone try to make another person feel special?
+- What were the things that Bethany did which made her vulnerable?
+- What should she have said / done?
+- Why did Bethany feel that she couldn't tell anyone about what was happening?
+- What would you do to prevent yourself from getting into a similar situation?
 
 ** Ask It: Online grooming
 :PROPERTIES:
@@ -324,14 +327,12 @@ Talk to an adult about what you have been doing? <br>
 <source src='./doc/Online Grooming-Childline.mp4' type="video/mp4">
 </video>
 #+END_EXPORT
+- What is online grooming?
+- What are some of the signs that might indicate that someone is being groomed?
+- Where online can grooming occur?
+- What can you do if you feel uncomfortable about a sitiuation?
+- What organisations can you make reports to?
 
-- How did Nathan make Bethany feel she was special?
-- What were his reasons for doing this?
-- What other ways might someone try to make another person feel special?
-- What were the things that Bethany did which made her vulnerable?
-- What should she have said / done?
-- Why did Bethany feel that she couldn't tell anyone about what was happening?
-- What would you do to prevent yourself from getting into a similar situation?
 
 ** Badge It: Silver / Gold
 :PROPERTIES:
