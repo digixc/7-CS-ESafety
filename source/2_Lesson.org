@@ -189,8 +189,7 @@
 - It is incredibly important that you spend time reflecting on who you would accept into your online life. Not everyone is who they appear to be... 
 #+BEGIN_EXPORT html
 <b>Humorous approach</b>
-
-<iframe width="600" height="400" src="https://www.youtube.com/embed/-IOOn2wR8bU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n59LYRDsZ2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <b>Scare tactics</b>
 <iframe width="600" height="400" src="https://www.youtube.com/embed/6jMhMVEjEQg" frameborder="0" allowfullscreen></iframe>
